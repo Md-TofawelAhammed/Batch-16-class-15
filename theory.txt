@@ -1,0 +1,13 @@
+
+*******Bootstrap*********
+
+CSS = Casecading Style Sheet
+
+Bootstrap is the framework CSS
+
+You can install Bootstrap using two methods
+
+1. Using CDN Link (content Delivery network)
+2. Downloading the Source File
+
+Ctrl u
